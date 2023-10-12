@@ -1,2 +1,2 @@
-Sentiment Analysis of IMDB set. #NLP #sentiment_analysis #IMDB_dataset
+Sentiment Analysis of IMDB dataset. #NLP #sentiment_analysis #IMDB_dataset
 
